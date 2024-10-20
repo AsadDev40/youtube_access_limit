@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "252227880155",
+    "project_id": "access-limit-4a284",
+    "storage_bucket": "access-limit-4a284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252227880155:android:c0f1b3331d9a01c0beb8fe",
+        "android_client_info": {
+          "package_name": "com.example.youtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252227880155-bqq70ic53ho55fj611l333aj0jh0a4e8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.youtube",
+            "certificate_hash": "ca48b686ab750b1371158408a3bbe71dff917330"
+          }
+        },
+        {
+          "client_id": "252227880155-ak6tsnribmopgqusa1mpm66cirvjsuku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk5jA62jtXdeLVOugZS0hZjqdm3qu4nqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252227880155-ak6tsnribmopgqusa1mpm66cirvjsuku.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "252227880155-0oerlkoqugckclrhahk6q9tn9242ikru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.youtube"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
